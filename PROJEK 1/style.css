@@ -1,0 +1,27 @@
+table{
+    border: 1px solid !important;
+    margin: 30px;
+    height: 1500px;
+}
+tr, th, td{
+    border: 2px solid !important;
+    padding: 5px;
+    text-align: center;
+}
+.fs-3{
+    padding: 50px;
+}
+
+td{
+    height: 90px !important;
+    width: 135px !important;
+}
+
+th{
+    width: 200px !important;
+    height: 72px;
+}
+
+select{
+    background: red !important;
+}
